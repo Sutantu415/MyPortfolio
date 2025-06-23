@@ -114,7 +114,7 @@
       <div class="border-t border-gray-200 dark:border-gray-700 mt-8 pt-6">
         <div class="flex flex-col md:flex-row justify-between items-center">
           <p class="text-gray-500 dark:text-gray-400 text-sm">
-            &copy; 2025 Torin Samples. All rights reserved.
+            &copy; 2025 Sutantu Balamurugan. All rights reserved.
           </p>
           <div class="flex items-center mt-4 md:mt-0">
             <span class="text-gray-500 dark:text-gray-400 text-sm mr-2">Built with</span>
