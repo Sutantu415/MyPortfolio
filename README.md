@@ -1,38 +1,33 @@
-# sv
+# Personal Portfolio — Sutantu Balamurugan
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A personal portfolio website built with SvelteKit and Tailwind CSS, showcasing my projects, experience, and skills as a full stack developer with an interest in AI and modern web technologies.
 
-## Creating a project
+## Live Site
 
-If you're seeing this, you've probably already done this step. Congrats!
+[https://my-portfolio-sutantu415s-projects.vercel.app/](https://my-portfolio-sutantu415s-projects.vercel.app/)
+
+## Features
+
+- Fully responsive design
+- Particle background effect
+- Dark theme as default
+- Projects and experience sections
+- GitHub contribution graph
+- Simple, fast-loading UI
+
+## Built With
+
+- SvelteKit
+- Tailwind CSS
+- TypeScript
+- Vercel (hosting)
+
+## Getting Started
+
+To run locally:
 
 ```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
+git clone https://github.com/your-username/your-portfolio-repo.git
+cd your-portfolio-repo
+npm install
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
