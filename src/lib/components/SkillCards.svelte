@@ -16,7 +16,7 @@
           },
           {
             name: 'SQL',
-            projects: ['SportsColumbus'],
+            projects: ['SportsColumbus', 'Red Apron'],
             experience: 'Proficient'
           },
           {
