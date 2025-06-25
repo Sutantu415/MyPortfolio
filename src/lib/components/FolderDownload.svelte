@@ -64,10 +64,14 @@
   
     function downloadResume() {
       const link = document.createElement('a');
-      link.href = `${base}/Resume.pdf`;
+      link.href = '/api/resume';
       link.download = 'Sutantu_Balamurugan_Resume.pdf';
+      link.style.display = 'none';
+      document.body.appendChild(link);
       link.click();
+      document.body.removeChild(link);
     }
+
   </script>
   
   <div style="transform: scale({size})" class={className}>
