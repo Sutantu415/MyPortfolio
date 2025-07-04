@@ -8,9 +8,10 @@
         date: 'April 2025 - Present',
         avatar: `${base}/OneGlobalInfoSystems.jpg`,
         bullets: [
-          'Architected and deployed SportsColumbus, a multi-league sports management platform supporting match scheduling, team registration, and player approvals for cricket, soccer, and volleyball',
-          'Sole developer driving feature expansion, QA testing, and product launch for a startup site leveraging user interaction data to optimize site performance (88+ unique visitor, 190+ page views)',
-          'Delivered full-stack features using React, Tailwind CSS, and Supabase/PostgreSQL; integrated API endpoints, managed user sessions, and deployed via Vercel with a 90+ Experience Score',
+          'Operated as the sole autonomous developer in a 10-person startup delivering on requirements provided by the CEO',
+          'Launched SportsColumbus, a multi-league sports management platform supporting match scheduling, team registration, and player approvals for cricket, soccer, and volleyball',
+          'Drove full DevOps cycle including feature expansion, QA, deployment, and live monitoring for the MVP; logging 88+ unique visitors and 190+ page views since launch',
+          'Full-stack development experience using React, Tailwind CSS, and Supabase/PostgreSQL; integrated API endpoints, managed user sessions, and deployed via Vercel, achieving a 90+ Experience Score',
         ],
         tech: ['React', 'Next.js', 'Node.js', 'Supabase', 'PostgreSQL', 'Tailwind']
       },
